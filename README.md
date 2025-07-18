@@ -1,2 +1,3 @@
-# tm
-tm stands for taskmaster
+# Taskmaster
+
+I'll describe it later (if ever)
